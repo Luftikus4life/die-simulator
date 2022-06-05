@@ -1,3 +1,3 @@
 # Die simulator
 
-Link:
+Link: https://luftikus4life.github.io/die-simulator/
